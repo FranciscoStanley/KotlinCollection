@@ -3,6 +3,8 @@ package one.digitalinovattion.collections
 fun main(){
     //Declarando as variavéis usando Array de Strings
     val nomes = Array(5){""}
+
+    //Entrada de dados
     nomes[0] = "Francisco"
     nomes[1] = "Sabrina"
     nomes[2] = "Sousa"
