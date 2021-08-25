@@ -3,7 +3,7 @@ package one.digitalinovattion.collections
 fun main() {
     //Declarando variavél.
     val values = IntArray(5)
-    
+
     //Declarando a entrada de dados.
     values[0] = 1
     values[1] = 7
